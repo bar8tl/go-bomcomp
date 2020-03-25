@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PgmSettings 
+  database="bomdb.mdb"
+  gb="GB"
+  bu="BU"
+  cmpItems="MtDc"
+  level="lv1"
+  cmpMode="lcl"
+  fullCmp="Y"
+  rulesSet="none"
+  convTol="0"
+  hKeeping="N"
+  dfltSteps="LMC"
+  uomFile="uom.dat"
+  sqlCmdFile="sqlcmd.dat"  
+  bomItm1="[_sy1_gbbu_bomitm_plt1].[Sheet1$]"
+  bomItm2="[_sy2_gbbu_bomItm_plt2].[Sheet1$]"
+/>

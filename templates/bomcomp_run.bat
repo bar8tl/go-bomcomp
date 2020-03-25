@@ -1,0 +1,2 @@
+..\bomcomp
+pause
